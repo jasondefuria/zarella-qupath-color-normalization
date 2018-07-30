@@ -20,4 +20,4 @@ This script will color normalize your images. See HE3.png (before) to HE3_Normal
 11. After selection of color values per structure, the rest of the script will run automatically
 12. At the end of the workflow, the first of two dialog boxes will appear to ask where to save the image vectors (see Figure 7).
 13. The second dialog box will ask where to save the color normalized image (see Figure 8)
-13. Voila, you now have a color normalized image!
+14. Voila, you now have a color normalized image!
